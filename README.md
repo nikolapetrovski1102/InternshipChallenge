@@ -15,7 +15,7 @@ Link to the website: https://nikolapetrovski1102.github.io/InternshipChallenge/
 # Scaling the image that is clicked to get a better view also the profile picture on hover.
 ![image](https://github.com/nikolapetrovski1102/InternshipChallenge/assets/86731640/81f086e1-c12c-4ebe-b752-dca6afea8c7a)
 
-# Button to load more of content on the feed. This adds 4 new posts a given in the assignment
+# Button to load more of content on the feed. This adds 4 new posts as given in the assignment
 ![image](https://github.com/nikolapetrovski1102/InternshipChallenge/assets/86731640/b9dda254-cba5-41dc-b27f-752227069fbd)
 
 # Formatted dates and numbers for a better view and readability.
